@@ -44,6 +44,5 @@ spec:
                       database: bludb
                       host: c-db2ucluster-pm-db2u.tools.svc
                       port: 50000
-                      type: 'db2'
                       schema: 'TMUSER'
                       ssl: false
