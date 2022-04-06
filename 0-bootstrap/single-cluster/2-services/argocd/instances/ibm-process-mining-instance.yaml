@@ -36,6 +36,7 @@ spec:
                 install: true
                 storage:
                   database:
+                    dbtype: db2 
                     external: 
                       credential:
                         secretname: 'c-db2ucluster-pm-instancepassword'
