@@ -163,7 +163,7 @@ spec:
 
           cluster:
             # cluster.name represents the name that will be assigned to this cluster in Instana
-            name: riks-cp4ba-name
+            name: riks-cp4ba
 
           leaderElector:
             image:
